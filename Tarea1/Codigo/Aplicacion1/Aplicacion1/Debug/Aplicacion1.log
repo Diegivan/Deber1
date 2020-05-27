@@ -1,0 +1,22 @@
+﻿  Aplicacion1.cpp
+C:\Users\USER\source\repos\Aplicacion1\Aplicacion1\Validacion.h(27,21): warning C4018: '<': no coinciden signed/unsigned
+  Formula.cpp
+  Fraccion.cpp
+  Generando código...
+C:\Users\USER\source\repos\Aplicacion1\Aplicacion1\Validacion.h(42,13): warning C4101: 'e': variable local sin referencia
+Formula.obj : error LNK2005: ya se definió "public: __thiscall Formula::Formula(void)" (??0Formula@@QAE@XZ) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: float __thiscall Formula::getNum1(void)" (?getNum1@Formula@@QAEMXZ) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: float __thiscall Formula::getNum2(void)" (?getNum2@Formula@@QAEMXZ) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: float __thiscall Formula::getNum3(void)" (?getNum3@Formula@@QAEMXZ) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: float __thiscall Formula::getNum4(void)" (?getNum4@Formula@@QAEMXZ) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: void __thiscall Formula::setNum1(float)" (?setNum1@Formula@@QAEXM@Z) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: void __thiscall Formula::setNum2(float)" (?setNum2@Formula@@QAEXM@Z) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: void __thiscall Formula::setNum3(float)" (?setNum3@Formula@@QAEXM@Z) en Aplicacion1.obj
+Formula.obj : error LNK2005: ya se definió "public: void __thiscall Formula::setNum4(float)" (?setNum4@Formula@@QAEXM@Z) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: __thiscall Fraccion::Fraccion(void)" (??0Fraccion@@QAE@XZ) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: void __thiscall Fraccion::calcular(float,float,float,float)" (?calcular@Fraccion@@QAEXMMMM@Z) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: float __thiscall Fraccion::getResult1(void)" (?getResult1@Fraccion@@QAEMXZ) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: float __thiscall Fraccion::getResult2(void)" (?getResult2@Fraccion@@QAEMXZ) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: void __thiscall Fraccion::setResult1(float)" (?setResult1@Fraccion@@QAEXM@Z) en Aplicacion1.obj
+Fraccion.obj : error LNK2005: ya se definió "public: void __thiscall Fraccion::setResult2(float)" (?setResult2@Fraccion@@QAEXM@Z) en Aplicacion1.obj
+C:\Users\USER\source\repos\Aplicacion1\Debug\Aplicacion1.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
